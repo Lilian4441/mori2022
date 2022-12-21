@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @mori2022
+- 👀 I’m interested in artifical intelligence!
+- 🌱 I’m currently learning java in college right now.
+- 📫 How to reach me: email me at lhuang04@outlook.com
